@@ -10,7 +10,7 @@
 
 cd to desired working directory
 1. create a file called server.js
-2. npm init
+2. npm init (fyll i alternativen som npm frågar efter)
 3. npm install express && npm install --save-dev nodemon
 
 In package.json modify
