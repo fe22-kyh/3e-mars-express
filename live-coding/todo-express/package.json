@@ -1,0 +1,20 @@
+{
+  "name": "express-demo",
+  "version": "1.0.0",
+  "description": "a short express demo",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server.js",
+    "dev": "echo \"Starting dev server\" && nodemon server.js"
+  },
+  "author": "Jakob Rolandsson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mustache-express": "^1.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
